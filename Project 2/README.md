@@ -1,5 +1,17 @@
-test project 2
+# Drinking Fountains Data Analytics Platform (City Of Vancouver)
 
-<img width="468" alt="Picture1" src="https://github.com/user-attachments/assets/5bd3855c-17dc-4dfc-b637-94af930874fa">
+## Table of Contents
+1. [Project Description](#projectdescription)
+2. [Project Title](#projecttitle)
+3. [Objective](#objective)
+4. [Dataset](#dataset)
+5. [Methodology](#methodology)
+6. [Tools and Technologies](#toolsandtechnologies)
+7. [Deliverables](#deliverables)
 
-project 2
+## Project Description
+The project involves:
+- Analyzing water permit data from 2023 and 2024.
+- Identifying trends and insights from permit activities, approval rates, and geographic distribution.
+- Building a secure and scalable data pipeline using AWS services.
+- Presenting visual insights through Excel dashboards to stakeholders.
