@@ -10,52 +10,30 @@
 7. [Deliverables](#deliverables)
 
 ## Project Description
-The project involves:
-- Analyzing water permit data from 2023 and 2024.
-- Identifying trends and insights from permit activities, approval rates, and geographic distribution.
-- Building a secure and scalable data pipeline using AWS services.
-- Presenting visual insights through Excel dashboards to stakeholders.
+Exploring Vancouver's Public Drinking Fountains
 
 ## Project Title
-The project involves:
-- Analyzing water permit data from 2023 and 2024.
-- Identifying trends and insights from permit activities, approval rates, and geographic distribution.
-- Building a secure and scalable data pipeline using AWS services.
-- Presenting visual insights through Excel dashboards to stakeholders.
+City of Vancouver Drinking Fountains: An Exploratory Data Analysis
+
 
 ## Objective
-The project involves:
-- Analyzing water permit data from 2023 and 2024.
-- Identifying trends and insights from permit activities, approval rates, and geographic distribution.
-- Building a secure and scalable data pipeline using AWS services.
-- Presenting visual insights through Excel dashboards to stakeholders.
+Exploratory Data Analysis (EDA) will be conducted to examine the relationship between pet-friendly parks and the public drinking fountains in Vancouver City. The project will involve analyzing the area, operation times, maintainers, and additional information about pet-friendly parks.
+
 
 ## Dataset
-The project involves:
-- Analyzing water permit data from 2023 and 2024.
-- Identifying trends and insights from permit activities, approval rates, and geographic distribution.
-- Building a secure and scalable data pipeline using AWS services.
-- Presenting visual insights through Excel dashboards to stakeholders.
+The dataset 
+
 
 ## Methodology
 The project involves:
-- Analyzing water permit data from 2023 and 2024.
-- Identifying trends and insights from permit activities, approval rates, and geographic distribution.
-- Building a secure and scalable data pipeline using AWS services.
-- Presenting visual insights through Excel dashboards to stakeholders.
+
 
 ## Tools and Technologies
 The project involves:
-- Analyzing water permit data from 2023 and 2024.
-- Identifying trends and insights from permit activities, approval rates, and geographic distribution.
-- Building a secure and scalable data pipeline using AWS services.
-- Presenting visual insights through Excel dashboards to stakeholders.
+
 
 ## Deliverables
 The project involves:
-- Analyzing water permit data from 2023 and 2024.
-- Identifying trends and insights from permit activities, approval rates, and geographic distribution.
-- Building a secure and scalable data pipeline using AWS services.
-- Presenting visual insights through Excel dashboards to stakeholders.
+
 
 
