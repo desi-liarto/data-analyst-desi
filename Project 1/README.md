@@ -1,40 +1,38 @@
-test
-
-<img width="468" alt="Picture1" src="https://github.com/user-attachments/assets/9968f4db-3446-4443-818e-931f6a71c5a5">
+# Student Rights and Responsibilities Data Analysis for UCW Registrar Office
 
 ## Table of Contents
-- [Project Overview](#project-overview)
+1. [Project Description](#project-description)
+2. [Project Title](#project-title)
+3. [Objective](#objective)
+4. [Dataset](#dataset)
+5. [Methodology](#methodology)
+6. [Tools and Technologies](#tools-and-technologies)
+7. [Deliverables](#deliverables)
 
-dsad
-
-
-dsadsad
-
-
-dasds
-
-
-
-das
+## Project Description
+The project involves:
 
 
-dasd
+## Project Title
+The project involves:
+- Analyzing 
 
 
+## Objective
+The project involves:
 
 
-
-dasd
-
-
+## Dataset
+The project involves:
 
 
-dasd
+## Methodology
+The project involves:
 
 
+## Tools and Technologies
+The project involves:
 
-dasdas
 
-
-## Project Overview
+## Deliverables
 The project involves:
