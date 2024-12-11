@@ -6,8 +6,10 @@
 3. [Objective](#objective)
 4. [Dataset](#dataset)
 5. [Methodology](#methodology)
-6. [Tools and Technologies](#tools-and-technologies)
-7. [Deliverables](#deliverables)
+6. [Insights and Findings](#insights-and-findings)
+7. [Tools and Technologies](#tools-and-technologies)
+8. [Deliverables](#deliverables)
+9. [Conclusion](#conclusion)
 
 ## Project Description
 The project involves:
@@ -30,9 +32,14 @@ The project involves:
 The project involves:
 
 
+## Insights and Findings
+
+
 ## Tools and Technologies
 The project involves:
 
 
 ## Deliverables
 The project involves:
+
+## Conclusion
