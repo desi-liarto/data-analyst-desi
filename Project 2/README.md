@@ -21,7 +21,7 @@ City of Vancouver Drinking Fountains: An Exploratory Data Analysis
 Exploratory Data Analysis (EDA) will be conducted to examine the relationship between pet-friendly parks and the public drinking fountains in Vancouver City. The project will involve analyzing the area, operation times, maintainers, and additional information about pet-friendly parks.
 
 ## Dataset
-The dataset of Drinking Fountains consists of several columns as listed below:
+The dataset is sourced from City of Vancouver Open Data Portal. Drinking Fountains consists of several columns as listed below:
   - **MAPID**: A unique identifier for every single drinking fountain.
   - **NAME**: The name of the drinking fountain is located at, while the location is additional location information.
   - **LOCATION**: The additional location information or direction of the drinking fountain.
@@ -249,11 +249,26 @@ The dashboard for exploratory analysis can be seen below
 
 
 ## Tools and Technologies
-The project involves:
+**_AWS Services:_**
 
+S3: Data storage and management
+
+AWS Glue: Data cleaning, transformation, and ETL pipeline
+
+Amazon Athena: SQL queries
+
+IAM and KMS: Data security.
+
+Amazon CloudWatch: Resources monitoring and controlling
+
+AWS CloudTrail: User activity tracking
+
+**_Data Visualization:_**
+
+Draw.io: ETL pipeline workflow visualization
 
 ## Deliverables
-The project involves:
+•	Visualizations and dashboards to present insights
 
 ## Conclusion
 
