@@ -31,10 +31,10 @@ The dataset of Drinking Fountains consists of several columns as listed below:
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/39aae78d-e112-4419-ab3d-3e8909d41ed9">
 
 ## Methodology
-In the methodolgy section, the discussion will be including Data Profiling, Data Cleaning, ETL Pipeline Design, Data Enriching, Data Pro
+In the methodolgy section, the discussion will be including Data Profiling, Data Cleaning, ETL Pipeline Design, Data Enriching, Data Protection, Data Governance, and Data Observability.
 
-### 1. Data Collection and Storage 
-**_Data Ingestion:_** The first step is to create the bucket and folders in S3. For the tags,  Category = Water. In addition, the storage class is Glacier Instant Retrieval because the data will be accessed around once a semester. This storage is suitable for rarely accessed data but requires retrieval in milliseconds when needed.
+### 1. Data Ingestion
+The first step is to create the bucket and folders in S3. For the tags,  Category = Water. In addition, the storage class is Glacier Instant Retrieval because the data will be accessed around once a semester. This storage is suitable for rarely accessed data but requires retrieval in milliseconds when needed.
 
 
 
