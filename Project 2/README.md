@@ -245,7 +245,7 @@ Create the logs insight and add it to the dashboard. Overall, this live dashboar
 The dashboard for exploratory analysis can be seen below
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/8f4d5af8-c457-4ae8-8a95-be7e965939a0"><br>
 
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/60f4623a-155c-4988-ad2e-dcbffd2bd2b2"> <br>
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/60f4623a-155c-4988-ad2e-dcbffd2bd2b2"> <br>
 
 
 ## Tools and Technologies
