@@ -207,6 +207,39 @@ Then, the data is ready to be stored in the S3 bucket in data-quality bucket, de
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/fde9caf9-4c23-4929-ab63-09ac73c43c03"><br>
 
+### 8. Data Observability
+The service is CloudWatch to monitor and control resources. Other than that, there is CloudTrail, which can be used to monitor user activities. 
+
+First, create a new dashboard, df-DAP-Dash-Des. Next, choose the line graph to show the history of S3 bucket size bytes raw, transform and curated.
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/0768a9b0-93d6-4a40-829c-dea4a7b1c90b"><br>
+
+The next type of widget shows the latest value of S3 storage metrics for raw, transform and curated. In addition, the Gauge widget can be used to know how much the cost has been used. 
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/dcf375c6-c07a-431e-b8eb-219cf9f955ca"><br>
+
+Next, to control the resources of raw storage, create an alarm for a period of 1 day. The threshold value is 100.
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/08f726cc-78da-494b-a009-749300f943dd"><br>
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/07588a9e-0fc6-420f-ac43-ff73e2dfcbce"><br>
+
+The name of the alarm for the raw zone is df-raw-alm-des. 
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/42848c83-f18b-457f-a98d-bdfc5355e6a6"><br>
+
+At the same time, create alarms to curated and transform using the existing topic. 
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/572f7aa6-0eef-404a-a0c6-d3d646d8b461"><br>
+
+All three alarms will be put on the df-DAP-Dash-Des Dashboard. 
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/dbc9be18-4bd9-4c72-bf60-d24217ea27fc"><br>
+
+Create the logs insight and add it to the dashboard. Overall, this live dashboard is called Monitoring and Controlling Metrics and Logs
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/2b70b431-1a70-47fd-a0ce-26894f91e02d"><br>
+
 
 ## Insights and Findings
 
