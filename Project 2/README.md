@@ -36,13 +36,25 @@ The dataset of Drinking Fountains consists of several columns as listed below:
 In the methodolgy section, the discussion will be including Data Profiling, Data Cleaning, ETL Pipeline Design, Data Enriching, Data Protection, Data Governance, and Data Observability.
 
 ### 1. Data Ingestion
-The first step is to create the bucket and folders in S3. For the tags,  Category = Water. In addition, the storage class is Glacier Instant Retrieval because the data will be accessed around once a semester. This storage is suitable for rarely accessed data but requires retrieval in milliseconds when needed.
+The first step is to create the bucket and folders in S3. For the tags,  Category = Water. In addition, the storage class is Glacier Instant Retrieval because the data will be accessed around once a semester. This storage is suitable for rarely accessed data but requires retrieval in milliseconds when needed. This is the directory path that is used to store the raw data:
+
+*df-raw-des> Drinking_Fountains/ ingestion_year=2024/ ingestion_semester=2/*
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/ba540904-6609-41d9-9127-f411f38e3451">
 
 ### 2. Data Profiling
-The next step is Data Profiling. The purpose of data profiling is to understand the data, such as if there are missing values or duplicate or invalid data. Some of the information can be used for data cleaning. Before starting the data profiling, I created a new bucket (df-trf-des) to store the profiling process with this directory path:
+The next step is Data Profiling. The purpose of data profiling is to understand the data, such as if there are missing values or duplicate or invalid data. Some of the information can be used for data cleaning. Data profiling can be processed in AWS Glue DataBrew. To preview the data, the new dataset, dfdataset-des was created. 
 
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/30adf692-351b-435e-8c25-90312e628c8e">
+
+
+Next, run Data Profile in the Data Profile Overview tab. The job output is the folder *df-trf-des> Drinking_Fountains/ data-profiling/*. The result of data profiling can be seen and analyzed through the summary and column summary. It shows the missing cells, duplicate rows, and the information for each column, such as column type, data quality, and total values.
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/ae172c1f-b583-4f5a-a040-fb23ea5c2970">
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/49513bae-a449-4f72-b715-17de1584af8c">
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/d4cbeb43-acb5-4e76-90c9-68c879957d2c">
 
 ## Insights and Findings
 
