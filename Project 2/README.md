@@ -184,8 +184,7 @@ Data governance is the process to ensure quality, including completeness and uni
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/7211d3d9-989e-4961-84b7-4d9c41d2a902"><br>
 
-After that, go to AWS Glue and make the new Visual ETL with the name df-QPC-Des. First, take the data from the S3 bucket. 
-s3://df-trf-des/Drinking_Fountains/data-cleaning/System/ 
+After that, go to AWS Glue and make the new Visual ETL with the name df-QPC-Des. First, take the data from the S3 bucket, s3://df-trf-des/Drinking_Fountains/data-cleaning/System/ 
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/4f5252e0-71ef-4d9d-8bb3-4e37ab5df41e"><br>
 
@@ -243,7 +242,10 @@ Create the logs insight and add it to the dashboard. Overall, this live dashboar
 
 ## Insights and Findings
 
+The dashboard for exploratory analysis can be seen below
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/8f4d5af8-c457-4ae8-8a95-be7e965939a0"><br>
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/60f4623a-155c-4988-ad2e-dcbffd2bd2b2"> <br>
 
 
 ## Tools and Technologies
