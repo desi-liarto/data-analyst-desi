@@ -6,8 +6,10 @@
 3. [Objective](#objective)
 4. [Dataset](#dataset)
 5. [Methodology](#methodology)
-6. [Tools and Technologies](#tools-and-technologies)
-7. [Deliverables](#deliverables)
+6. [Insights and Findings](#insights-and-findings)
+7. [Tools and Technologies](#tools-and-technologies)
+8. [Deliverables](#deliverables)
+9. [Conclusion](#conclusion)
 
 ## Project Description
 Exploring Vancouver's Public Drinking Fountains
@@ -36,11 +38,13 @@ In the methodolgy section, the discussion will be including Data Profiling, Data
 ### 1. Data Ingestion
 The first step is to create the bucket and folders in S3. For the tags,  Category = Water. In addition, the storage class is Glacier Instant Retrieval because the data will be accessed around once a semester. This storage is suitable for rarely accessed data but requires retrieval in milliseconds when needed.
 
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/ba540904-6609-41d9-9127-f411f38e3451">
+
+### 2. Data Profiling
+The next step is Data Profiling. The purpose of data profiling is to understand the data, such as if there are missing values or duplicate or invalid data. Some of the information can be used for data cleaning. Before starting the data profiling, I created a new bucket (df-trf-des) to store the profiling process with this directory path:
 
 
-
-  
-  - The dataset was uploaded an
+## Insights and Findings
 
 ## Tools and Technologies
 The project involves:
@@ -48,6 +52,8 @@ The project involves:
 
 ## Deliverables
 The project involves:
+
+## Conclusion
 
 
 
