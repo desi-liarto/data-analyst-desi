@@ -242,7 +242,7 @@ Create the logs insight and add it to the dashboard. Overall, this live dashboar
 
 ## Insights and Findings
 
-The dashboard for exploratory analysis can be seen below
+Below is the dashboard for exploratory analysis.
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/8f4d5af8-c457-4ae8-8a95-be7e965939a0"><br>
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/60f4623a-155c-4988-ad2e-dcbffd2bd2b2"> <br>
@@ -267,10 +267,10 @@ AWS CloudTrail: User activity tracking
 
 Draw.io: ETL pipeline workflow visualization
 
+Excel: Data processing
+
 ## Deliverables
-•	Visualizations and dashboards to present insights
+The deliverables for the "City of Vancouver Drinking Fountains: An Exploratory Data Analysis" project include visual charts that show the findings about public drinking fountains and the connection to pet-friendly parks in Vancouver. These findings will be stored and easily accessible online. In addition, the project will provide guidelines on how to handle and secure the data properly. Monitoring tools will be set up to keep track of the system's performance and resources.
 
 ## Conclusion
-
-
-
+This project will give us a clear picture of where drinking fountains are located in Vancouver, especially the pet-friendly one. This analysis will help the city plan better and make parks more enjoyable for both people and their pets.
