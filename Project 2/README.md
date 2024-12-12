@@ -89,7 +89,7 @@ The first step is creating the Visual ETL with the name dfpet-dataset-des. The d
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/98ed46d0-ee87-4192-9b22-1179fe16a3ec"><br>
 
-On the other side, another dataset that has been cleaned is exporred from S3://df-trf-des/DrinkingFountains_PetFriendly/data-cleaning/User/. 
+On the other side, another dataset that has been cleaned is exported from S3://df-trf-des/DrinkingFountains_PetFriendly/data-cleaning/User/. 
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/f3af8b94-33b2-4930-8459-fc27afb1107a"><br>
 
