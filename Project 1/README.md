@@ -61,6 +61,36 @@ On the data cleaning step, there are some steps, such as removing white spaces f
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/556ddc26-1867-4ac3-a447-88e6a0891d3a" /> <br>
 
+### 4. Data Pipeline
+The data pipeline is designed to answer and deliver the data question regarding the descriptive analysis about student misconduct complaints, especially the percentage of the critical complaints. AWS Glue is used to design the pipeline.
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/c9416d04-2b44-4321-8c4e-818946cdf57f" /> <br>
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/865fd7cf-35d8-43bf-a8ab-1d9e2aef2523" /> <br>
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/94a19b64-4f41-4c4a-ad9d-1dc9a9c94667" /> <br>
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/3f484547-5335-4c96-bfe0-24aea56ef190" /> <br>
+
+### 5. Data Enriching
+After ingesting the clickstream data, the first step in data enrichment is to create a Data Catalog using AWS Glue. After that, I will crawl all the datasets to organize them into tables, which will include raw, transform, and curated buckets in S3
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/6130fa8c-4190-4600-bacf-c19cc95c6e0b" /><br>
+
+After running the crawler, the result can be seen in the Databases – Tables.
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/6376296d-64d5-4cfd-aa3c-675f2f8dcc46" /><br>
+
+Athena supports interactive analysis, allowing users to write and execute queries directly.
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/90821b29-62b6-408f-ade4-22d3da56dd0b" /><br>
+
+### 6. Data Protection
+To protect the confidentiality, integrity, and availability of operational datasets, AWS offers services such as Identity and Access Management (IAM) and AWS Key Management Service (KMS).
+
+The first step is creating a key through the Key Management Service, with the name ro-srp-key-des.
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/755ce9b4-f52c-4729-abce-7c3ae2f0d9ca" />
 
 
 
