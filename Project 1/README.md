@@ -90,7 +90,20 @@ To protect the confidentiality, integrity, and availability of operational datas
 
 The first step is creating a key through the Key Management Service, with the name ro-srp-key-des.
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/755ce9b4-f52c-4729-abce-7c3ae2f0d9ca" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/755ce9b4-f52c-4729-abce-7c3ae2f0d9ca" /> <br>
+
+After making the key, this key needs to be applied to the S3 storage. ro-srp-key-des will be used for every storage.
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/e0ee4f2c-e659-412e-8537-25eb310dd85a" /> <br>
+
+Next, create the replication rule, with the name ro-srp-reprul-des.
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/f5809f36-c12c-4e24-a958-e9bb83e5f6e2" /> <br>
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/1ff7aa8d-9e3d-405f-97d9-5e7f0346947b" /> <br>
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/f777698d-d7a8-4117-ba11-e410e54749eb" /> <br>
+
 
 
 
