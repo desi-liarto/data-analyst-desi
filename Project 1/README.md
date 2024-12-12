@@ -6,22 +6,18 @@
 3. [Objective](#objective)
 4. [Dataset](#dataset)
 5. [Methodology](#methodology)
-6. [Insights and Findings](#insights-and-findings)
-7. [Tools and Technologies](#tools-and-technologies)
-8. [Deliverables](#deliverables)
-9. [Conclusion](#conclusion)
+6. [Tools and Technologies](#tools-and-technologies)
+7. [Deliverables](#deliverables)
+8. [Conclusion](#conclusion)
 
 ## Project Description
-The project involves:
-
+Student Rights and Responsibilities Data Analytics Platform
 
 ## Project Title
-The project involves:
-- Analyzing 
-
+Student Misconduct Complaints: Descriptive Analytics and Insights
 
 ## Objective
-The project involves:
+Explore the critical complaints data to identify trends, patterns, and potential causes of student misconduct.
 
 
 ## Dataset
