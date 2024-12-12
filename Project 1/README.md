@@ -104,12 +104,39 @@ Next, create the replication rule, with the name ro-srp-reprul-des.
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/f777698d-d7a8-4117-ba11-e410e54749eb" /> <br>
 
+### 7. Data Governance
+Data governance is the process of ensuring quality, including completeness and uniqueness, as well as privacy, compliance, and protection.  AWS Glue will be used to create a Visual ETL.
 
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/0ff2ed65-7c11-448c-bc0a-aed4052d2c42" /> <br>
+
+In addition, data freshness is crucial for maintaining the relevance of the information.
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/976f6c4a-4011-4ebe-90b3-aa05480ae495" /> <br>
+
+### 8. Data Observability
+In data observability, the service is CloudWatch to monitor and control resources. Other than that, there is CloudTrail, which can be used to monitor user activities. 
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/b1d02306-26b6-47df-b64f-3bf65d4c509f" /> <br>
 
 
 ## Tools and Technologies
-The project involves:
+**_AWS Services:_**
 
+S3: Data storage and management
+
+AWS Glue: Data cleaning, transformation, and ETL pipeline
+
+Amazon Athena: SQL queries
+
+IAM and KMS: Data security.
+
+Amazon CloudWatch: Resources monitoring and controlling
+
+AWS CloudTrail: User activity tracking
+
+**_Data Visualization:_**
+
+Draw.io: ETL pipeline workflow visualization
 
 ## Deliverables
 The project involves:
