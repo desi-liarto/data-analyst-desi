@@ -40,7 +40,7 @@ The first step is to create the bucket and folders in S3. The storage class is S
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/4e087e20-6b10-49c1-99ac-0a0bc5dbfc7a" /><br>
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/3158ff59-20eb-409b-8fbf-7994c8230b78" /> <br>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/3158ff59-20eb-409b-8fbf-7994c8230b78" /> <br>
 
 
 ### 2. Data Profiling
@@ -59,18 +59,18 @@ On the data cleaning step, there are some steps, such as removing white spaces f
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/dd4e4ef3-dc94-4974-bf6e-77210758193f" /> <br>
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/556ddc26-1867-4ac3-a447-88e6a0891d3a" /> <br>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/556ddc26-1867-4ac3-a447-88e6a0891d3a" /> <br>
 
 ### 4. Data Pipeline
 The data pipeline is designed to answer and deliver the data question regarding the descriptive analysis about student misconduct complaints, especially the percentage of the critical complaints. AWS Glue is used to design the pipeline.
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/c9416d04-2b44-4321-8c4e-818946cdf57f" /> <br>
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/ea5cc94e-9ca9-404b-a139-85e29d392b13" /> <br>
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/865fd7cf-35d8-43bf-a8ab-1d9e2aef2523" /> <br>
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/94a19b64-4f41-4c4a-ad9d-1dc9a9c94667" /> <br>
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/3f484547-5335-4c96-bfe0-24aea56ef190" /> <br>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/90cbf525-d7c7-4009-b2bd-df290718c96e" /> <br>
 
 ### 5. Data Enriching
 After ingesting the clickstream data, the first step in data enrichment is to create a Data Catalog using AWS Glue. After that, I will crawl all the datasets to organize them into tables, which will include raw, transform, and curated buckets in S3
