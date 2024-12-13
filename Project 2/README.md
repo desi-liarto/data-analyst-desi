@@ -51,8 +51,6 @@ The next step is Data Profiling. The purpose of data profiling is to understand 
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/30adf692-351b-435e-8c25-90312e628c8e"><br>
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/0017a82f-99ff-4da9-9c8c-a4dadd905d58"> <br>
-
 Next, run Data Profile in the Data Profile Overview tab. The job output is the folder *df-trf-des> Drinking_Fountains/ data-profiling/*. The result of data profiling can be seen and analyzed through the summary and column summary. It shows the missing cells, duplicate rows, and the information for each column, such as column type, data quality, and total values.
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/ae172c1f-b583-4f5a-a040-fb23ea5c2970"><br>
