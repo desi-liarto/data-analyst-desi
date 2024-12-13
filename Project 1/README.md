@@ -111,7 +111,7 @@ Data governance is the process of ensuring quality, including completeness and u
 
 In addition, data freshness is crucial for maintaining the relevance of the information.
 
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/976f6c4a-4011-4ebe-90b3-aa05480ae495" /> <br>
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/976f6c4a-4011-4ebe-90b3-aa05480ae495" /> <br>
 
 ### 8. Data Observability
 In data observability, the service is CloudWatch to monitor and control resources. Other than that, there is CloudTrail, which can be used to monitor user activities. 
