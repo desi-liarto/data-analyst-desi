@@ -47,7 +47,7 @@ The first step is to create the bucket and folders in S3. For the tags,  Categor
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/7b1068da-436b-43bd-8002-ef62bc9f390e">
 
 ### 2. Data Profiling
-The next step is Data Profiling. The purpose of data profiling is to understand the data, such as if there are missing values or duplicate or invalid data. Some of the information can be used for data cleaning. Data profiling can be processed in AWS Glue DataBrew. To preview the data, the new dataset, dfdataset-des was created. 
+The next step is Data Profiling. The purpose of data profiling is to understand the data, such as if there are missing values or duplicate or invalid data. Some of the information can be used for data cleaning. Data profiling can be processed in AWS Glue DataBrew. To preview the data, the new dataset was created. 
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/30adf692-351b-435e-8c25-90312e628c8e"><br>
 
