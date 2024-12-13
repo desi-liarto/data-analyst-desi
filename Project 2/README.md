@@ -192,7 +192,7 @@ Then, check the privacy of the data using Detect Sensitive Data. Replace the det
 
 The next step is to evaluate data quality by checking the completeness and uniqueness.
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/66d1d65b-dd1e-477d-9fa6-bb6102f524ba"><br>
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/9bea10a2-262d-41ad-9145-588196d3140a" />
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/aa19700b-ff4d-458b-8070-2754ec26a44e"><br>
 
@@ -202,7 +202,8 @@ According to the conditions above, conditional router will be used to divide the
 
 Then, the data is ready to be stored in the S3 bucket in data-quality bucket, depending on the evaluation result (Failed or Passed). Below is the overall pipeline of the data governance process to ensure privacy, completeness and uniqueness.
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/fde9caf9-4c23-4929-ab63-09ac73c43c03"><br>
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/26871172-cb3d-4f53-b19d-768838d498fa" />
+
 
 ### 8. Data Observability
 The service is CloudWatch to monitor and control resources. Other than that, there is CloudTrail, which can be used to monitor user activities. 
