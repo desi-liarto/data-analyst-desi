@@ -129,7 +129,7 @@ Athena is an interactive analysis where we can write the query. The result will 
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/7227b045-e27e-410b-94c0-d9a8a566ef09"> <br>
 
-The query for descriptive analytics is to count the drinking fountains that are operated throughout the year. Based on the data, there are 37 drinking fountains.
+The query for descriptive analytics is to count the drinking fountains that are operated throughout the year.
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/11406858-2b7d-46aa-ae22-4b22e23c63a1"><br>
 
