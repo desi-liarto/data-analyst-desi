@@ -139,7 +139,7 @@ AWS CloudTrail: User activity tracking
 Draw.io: ETL pipeline workflow visualization
 
 ## Deliverables
-The key deliverable of this project is a fully functional data analytics platform that stores, processes, and provides descriptive insights into student misconduct complaints. This includes an end-to-end ETL pipeline designed using AWS Glue, facilitating data ingestion, cleaning, transformation, and enrichment, with organized storage in S3. Additionally, data security and governance are ensured through the use of AWS Identity and Access Management (IAM), Key Management Service (KMS), and data observability tools like CloudWatch and CloudTrail to maintain data integrity and observe data resources.
+The key deliverable of this project is a fully functional data analytics platform that stores, processes, and provides descriptive insights into student misconduct complaints. This includes an end-to-end ETL pipeline designed using AWS Glue, facilitating data ingestion, cleaning, and enrichment, with organized storage in S3. Additionally, data security and governance are ensured through the use of AWS Identity and Access Management (IAM), Key Management Service (KMS), and data observability tools like CloudWatch and CloudTrail to maintain data integrity and observe data resources.
 
 ## Conclusion
 The Student Rights and Responsibilities Data Analytics Platform helps track and analyze student misconduct complaints. It provides clear insights and supports better decision-making for the Registrar's Office and Student Rights & Responsibilities Advisor.
