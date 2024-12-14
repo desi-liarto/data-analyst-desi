@@ -109,7 +109,7 @@ Data governance is the process of ensuring quality, including completeness and u
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/0ff2ed65-7c11-448c-bc0a-aed4052d2c42" /> <br>
 
-In addition, data freshness is crucial for maintaining the relevance of the information.
+In addition, data freshness is crucial for maintaining the relevance of the information, such as complaint data received within the last 30 days.
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/976f6c4a-4011-4ebe-90b3-aa05480ae495" /> <br>
 
