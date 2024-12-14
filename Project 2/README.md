@@ -57,7 +57,7 @@ Next, run Data Profile in the Data Profile Overview tab. The job output is the f
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/49513bae-a449-4f72-b715-17de1584af8c"><br>
 
-After analyzing the data profiling, a project was created with this dataset to continue the data cleaning process
+After analyzing the data profiling, a project was created with this dataset to continue the data cleaning process.
 
 ### 3. Data Cleaning
 Before doing data cleaning, a new folder was created to store the data cleaning process. In the data cleaning folder, there are two folders, System and User.
