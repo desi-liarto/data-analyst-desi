@@ -106,7 +106,7 @@ To store the result from the data pipeline process, a new folder is created  wit
 
 Below is the overall pipeline design for answering the exploratory analysis.
 
-<img width="648" alt="image" src="https://github.com/user-attachments/assets/beb8bf54-ecfa-4680-8c0e-8a35796082ae" /> <br>
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/beb8bf54-ecfa-4680-8c0e-8a35796082ae" /> <br>
 
 ### 5. Data Enriching
 The first step in Data Enriching is creating the Data Catalog using AWS Glue. The name of the database is df-datacatalog-des.
