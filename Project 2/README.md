@@ -256,7 +256,7 @@ AWS Glue: Data cleaning, transformation, and ETL pipeline
 
 Amazon Athena: SQL queries
 
-IAM and KMS: Data security.
+IAM and KMS: Data security
 
 Amazon CloudWatch: Resources monitoring and controlling
 
