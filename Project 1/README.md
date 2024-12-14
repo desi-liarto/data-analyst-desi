@@ -52,7 +52,7 @@ The next step is Data Profiling. The purpose of data profiling is to understand 
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/28fa42e0-d7be-440c-a201-04362e50fc12" /> <br>
 
-After analyzing the data profiling, a project was created with this dataset to continue the data cleaning process
+After analyzing the data profiling, a project was created with this dataset to continue the data cleaning process.
 
 ### 3. Data Cleaning
 On the data cleaning step, there are some steps, such as removing white spaces for some columns, filling the missing values with the last valid value, renaming the column name and deleting empty rows with missing values. It can be processed in AWS Glue DataBrew. The cleaning dataset will be stored in *ro-trf-des> Complaints/ Data-Cleaning/*. In data cleaning folder, there are two folders, System and User. 
